@@ -7,5 +7,7 @@ public class Philips extends CoffeeMachine{
         super.setManufacturer("Netherlands");
         super.setWaterTank(1800);
         super.setCoffeeTank(275);
+        super.setFullWaterTank(1800);
+        super.setFullCoffeeTank(275);
     }
 }
