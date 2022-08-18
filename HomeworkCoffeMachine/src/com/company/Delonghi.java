@@ -7,6 +7,8 @@ public class Delonghi extends CoffeeMachine{
         super.setManufacturer("Italy");
         super.setWaterTank(2000);
         super.setCoffeeTank(380);
+        super.setFullWaterTank(2000);
+        super.setFullCoffeeTank(380);
     }
 }
 
